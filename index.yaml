@@ -35,5 +35,5 @@ maintainers:
   - name: vishiy
     email: visnara@microsoft.com
 urls:
-  - https://ganga1980.github.io/azuremonitor-containers-helm-charts/azuremonitor-containers-2.7.1.tgz
+  - https://rashmichandrashekar.github.io/azure-monitor-containers-helm-charts-private/azuremonitor-containers-2.8.0.tgz
     version: 2.8.0
